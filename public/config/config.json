@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x472e8a258E26369541586dDE728e691882752261",
+  "SCAN_LINK": "https://etherscan.io/address/0x472e8a258E26369541586dDE728e691882752261",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  
+  "NFT_NAME": "The Travellers Club",
+  "SYMBOL": "TTC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 180000000000000000,
+  "DISPLAY_COST": 0.18,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/the-travellers-club-9rpbroi8pi",
+  "SHOW_BACKGROUND": true
+}
